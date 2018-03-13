@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2018-03-12T09:59:03Z" finished-at="2018-03-12T09:59:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2018-03-12T09:59:03Z" finished-at="2018-03-12T09:59:03Z">
+      <class name="FleetEdge_Core.Core">
+        <test-method status="PASS" signature="beforeSet()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="beforeSet" is-config="true" duration-ms="16" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSet -->
+        <test-method status="PASS" signature="CompanyManager()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="CompanyManager" duration-ms="16" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompanyManager -->
+        <test-method status="PASS" signature="AssociationMaster()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="AssociationMaster" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssociationMaster -->
+        <test-method status="PASS" signature="AssetDetailTab()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="AssetDetailTab" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssetDetailTab -->
+        <test-method status="PASS" signature="AssetDetails()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="AssetDetails" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssetDetails -->
+        <test-method status="PASS" signature="EquipmentTerminalAssociation()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="EquipmentTerminalAssociation" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EquipmentTerminalAssociation -->
+        <test-method status="PASS" signature="EmailReport()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="EmailReport" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailReport -->
+        <test-method status="PASS" signature="FleetEventReport()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="FleetEventReport" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FleetEventReport -->
+        <test-method status="PASS" signature="EmailReportWizard()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="EmailReportWizard" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailReportWizard -->
+        <test-method status="PASS" signature="FleetStatus()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="FleetStatus" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FleetStatus -->
+        <test-method status="PASS" signature="ManageWidgets()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="ManageWidgets" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ManageWidgets -->
+        <test-method status="PASS" signature="IssueResolver()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="IssueResolver" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IssueResolver -->
+        <test-method status="PASS" signature="ModelManager()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="ModelManager" duration-ms="16" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModelManager -->
+        <test-method status="PASS" signature="FleetSummary()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="FleetSummary" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FleetSummary -->
+        <test-method status="PASS" signature="GeoFence()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="GeoFence" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeoFence -->
+        <test-method status="PASS" signature="SendSMSorSATMessage()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="SendSMSorSATMessage" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendSMSorSATMessage -->
+        <test-method status="PASS" signature="Programs()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="Programs" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Programs -->
+        <test-method status="PASS" signature="SMSorEmailTemplate()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="SMSorEmailTemplate" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SMSorEmailTemplate -->
+        <test-method status="PASS" signature="SendMail()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="SendMail" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMail -->
+        <test-method status="PASS" signature="TerminalSummary()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="TerminalSummary" duration-ms="16" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminalSummary -->
+        <test-method status="PASS" signature="login()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="login" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="TimeFence()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="TimeFence" duration-ms="0" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TimeFence -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:FleetEdge_Core.Core@7696c6]" name="tearDown" is-config="true" duration-ms="251" started-at="2018-03-12T15:29:03Z" finished-at="2018-03-12T15:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- FleetEdge_Core.Core -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
